@@ -8,3 +8,18 @@ h1 {
     text-align: center;
     color: green;
 }
+
+.btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px 10px;
+    cursor: pointer;
+}
+
+.btn-green {
+    background-color: #74b074;
+}
+
+.btn-red {
+    background-color: #b07474;
+}
