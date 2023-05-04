@@ -13,7 +13,7 @@
 </head>
 <body>
     <h2>Compila e censura</h2>
-    <form action="" method="GET">
+    <form action="badwords.php" method="GET">
         <div>
             <label for="text">Testo:</label> <br>
             <textarea name="text" id="text" cols="30" rows="10"></textarea>
